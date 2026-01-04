@@ -1,0 +1,10 @@
+[
+  {
+    "text": "The service may track users across websites.",
+    "risk": "HIGH"
+  },
+  {
+    "text": "Users can request deletion of their data.",
+    "risk": "LOW"
+  }
+]

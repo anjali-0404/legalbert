@@ -1,0 +1,10 @@
+[
+  {
+    "text": "We collect personal information such as name and email address.",
+    "label": "DATA_COLLECTION"
+  },
+  {
+    "text": "We may share information with third-party advertisers.",
+    "label": "DATA_SHARING"
+  }
+]
